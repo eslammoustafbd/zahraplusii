@@ -1,0 +1,17 @@
+{
+  "name": "zahrat-el-rabea-production-cms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Production-ready multilingual website and CMS for Zahrat El-Rabea For Food Manufacturing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "validate": "node scripts/validate.js",
+    "check": "node --check server.js && node --check public/assets/js/icons.js && node --check public/assets/js/site.js && node --check admin/assets/admin.js && node scripts/validate.js",
+    "reset-admin": "node reset-admin.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}

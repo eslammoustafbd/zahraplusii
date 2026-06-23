@@ -1,0 +1,5 @@
+# Requires mod_proxy and mod_proxy_http.
+ProxyPreserveHost On
+RequestHeader set X-Forwarded-Proto "https" env=HTTPS
+ProxyPass / http://127.0.0.1:8080/
+ProxyPassReverse / http://127.0.0.1:8080/

@@ -1,0 +1,1060 @@
+{
+  "site": {
+    "companyName": "Zahrat El-Rabea For Food Manufacturing",
+    "logo": "/assets/images/logo-default.svg",
+    "favicon": "/assets/images/favicon.svg",
+    "tagline": {
+      "ar": "جودة مصرية مُهيأة لأسواق التصدير",
+      "en": "Egyptian quality prepared for global markets",
+      "es": "Calidad egipcia preparada para mercados globales",
+      "it": "Qualità egiziana pronta per i mercati globali"
+    },
+    "defaultLanguage": "ar",
+    "languages": [
+      "ar",
+      "en",
+      "es",
+      "it"
+    ],
+    "theme": {
+      "primary": "#1f6a45",
+      "dark": "#0d3627",
+      "accent": "#a5bf63",
+      "surface": "#f5f8f3"
+    },
+    "hero": {
+      "autoplay": true,
+      "interval": 7000,
+      "minHeight": 900,
+      "slides": [
+        {
+          "id": "hero-groves",
+          "enabled": true,
+          "type": "image",
+          "media": "/assets/images/hero-groves.webp",
+          "poster": "/assets/images/hero-groves.webp",
+          "eyebrow": {
+            "ar": "من وادي النطرون إلى العالم",
+            "en": "From Wadi El Natrun to the world",
+            "es": "De Wadi El Natrun al mundo",
+            "it": "Da Wadi El Natrun al mondo"
+          },
+          "title": {
+            "ar": "زيتون مصري مُجهز بعناية لعلامتك التجارية",
+            "en": "Egyptian olives, prepared with care for your brand",
+            "es": "Aceitunas egipcias preparadas con cuidado para su marca",
+            "it": "Olive egiziane preparate con cura per il tuo marchio"
+          },
+          "text": {
+            "ar": "نختار ونفرز ونجهز المنتجات وفق المواصفة المتفق عليها، مع حلول تعبئة مرنة وخدمة موجهة للمستوردين والموزعين.",
+            "en": "We select, grade and prepare products to the agreed specification, with flexible packing and export-focused support.",
+            "es": "Seleccionamos, clasificamos y preparamos productos según la especificación acordada, con envases flexibles y soporte para exportación.",
+            "it": "Selezioniamo, calibramo e prepariamo i prodotti secondo le specifiche concordate, con imballaggi flessibili e supporto all’export."
+          },
+          "primaryLabel": {
+            "ar": "استكشف المنتجات",
+            "en": "Explore products",
+            "es": "Explorar productos",
+            "it": "Esplora i prodotti"
+          },
+          "primaryUrl": "/products",
+          "secondaryLabel": {
+            "ar": "اطلب عرض سعر",
+            "en": "Request a quote",
+            "es": "Solicitar cotización",
+            "it": "Richiedi un preventivo"
+          },
+          "secondaryUrl": "/quote"
+        },
+        {
+          "id": "hero-process",
+          "enabled": true,
+          "type": "video",
+          "media": "/assets/media/olive-process.mp4",
+          "poster": "/assets/images/hero-process.webp",
+          "eyebrow": {
+            "ar": "تحكم أفضل في كل مرحلة",
+            "en": "Control at every stage",
+            "es": "Control en cada etapa",
+            "it": "Controllo in ogni fase"
+          },
+          "title": {
+            "ar": "تجهيز دقيق. مذاق متوازن. توريد أكثر ثباتًا.",
+            "en": "Precise processing. Balanced taste. More consistent supply.",
+            "es": "Proceso preciso. Sabor equilibrado. Suministro más constante.",
+            "it": "Lavorazione precisa. Gusto equilibrato. Fornitura più costante."
+          },
+          "text": {
+            "ar": "من الفرز والمعالجة إلى التعبئة والتجهيز للشحن، نركز على وضوح المواصفة وتناسق المنتج وسهولة المتابعة.",
+            "en": "From grading and processing to packing and shipment preparation, we focus on clear specifications, product consistency and responsive follow-up.",
+            "es": "Desde la clasificación y el proceso hasta el envasado y la preparación del envío, priorizamos especificaciones claras y consistencia.",
+            "it": "Dalla calibratura alla lavorazione, fino al confezionamento e alla spedizione, puntiamo su specifiche chiare e coerenza."
+          },
+          "primaryLabel": {
+            "ar": "تعرف على قدراتنا",
+            "en": "View capabilities",
+            "es": "Ver capacidades",
+            "it": "Scopri le capacità"
+          },
+          "primaryUrl": "/about",
+          "secondaryLabel": {
+            "ar": "تواصل مع فريق التصدير",
+            "en": "Contact export team",
+            "es": "Contactar exportación",
+            "it": "Contatta export"
+          },
+          "secondaryUrl": "/contact",
+          "videoReady": true
+        },
+        {
+          "id": "hero-packaging",
+          "enabled": true,
+          "type": "image",
+          "media": "/assets/images/hero-packaging.webp",
+          "poster": "/assets/images/hero-packaging.webp",
+          "eyebrow": {
+            "ar": "حلول تعبئة تناسب سوقك",
+            "en": "Packaging shaped around your market",
+            "es": "Envases adaptados a su mercado",
+            "it": "Packaging pensato per il tuo mercato"
+          },
+          "title": {
+            "ar": "من العبوات التجارية إلى حلول الجملة والعلامة الخاصة",
+            "en": "From retail packs to bulk and private-label solutions",
+            "es": "Desde envases minoristas hasta granel y marca privada",
+            "it": "Dal retail al bulk e al private label"
+          },
+          "text": {
+            "ar": "خيارات عملية للبرطمانات والعبوات والصفائح والبراميل، مع إمكانية تخصيص المقاس والملصق والمواصفة حسب الطلب.",
+            "en": "Practical options across jars, PET, tins and drums, with configurable size, label and specification.",
+            "es": "Opciones prácticas en frascos, PET, latas y bidones, con tamaño, etiqueta y especificación configurables.",
+            "it": "Soluzioni in vetro, PET, latte e fusti, con formato, etichetta e specifiche personalizzabili."
+          },
+          "primaryLabel": {
+            "ar": "خيارات التعبئة",
+            "en": "Packaging options",
+            "es": "Opciones de envase",
+            "it": "Opzioni di confezionamento"
+          },
+          "primaryUrl": "/products",
+          "secondaryLabel": {
+            "ar": "تحميل الكتالوج",
+            "en": "Download catalog",
+            "es": "Descargar catálogo",
+            "it": "Scarica catalogo"
+          },
+          "secondaryUrl": "/catalog"
+        }
+      ]
+    },
+    "contact": {
+      "phones": [
+        "+20 100 000 0000"
+      ],
+      "email": "info@zahratelrabea.com",
+      "exportEmail": "export@zahratelrabea.com",
+      "whatsapp": "+201000000000",
+      "address": {
+        "ar": "الجعار، وادي النطرون، البحيرة، مصر",
+        "en": "Al Ja'ar, Wadi El Natrun, Beheira, Egypt",
+        "es": "Al Ja'ar, Wadi El Natrun, Beheira, Egipto",
+        "it": "Al Ja'ar, Wadi El Natrun, Beheira, Egitto"
+      },
+      "hours": {
+        "ar": "الأحد – الخميس، 8:30 ص – 5:00 م",
+        "en": "Sunday – Thursday, 8:30 AM – 5:00 PM",
+        "es": "Domingo – Jueves, 8:30 – 17:00",
+        "it": "Domenica – Giovedì, 8:30 – 17:00"
+      },
+      "mapEmbed": "https://www.google.com/maps?q=Wadi%20El%20Natrun%2C%20Beheira%2C%20Egypt&output=embed",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Wadi%20El%20Natrun%2C%20Beheira%2C%20Egypt",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    "footer": {
+      "summary": {
+        "ar": "شريك تصنيع وتوريد للزيتون المخلل والمنتجات الغذائية، بخدمة مرنة للمستوردين والموزعين وأصحاب العلامات التجارية.",
+        "en": "A manufacturing and supply partner for table olives and food products, serving importers, distributors and private labels.",
+        "es": "Socio de fabricación y suministro de aceitunas de mesa y productos alimentarios para importadores, distribuidores y marcas privadas.",
+        "it": "Partner di produzione e fornitura di olive da tavola e prodotti alimentari per importatori, distributori e private label."
+      },
+      "newsletter": true,
+      "showMap": true
+    },
+    "stats": [
+      {
+        "value": "4",
+        "suffix": "",
+        "label": {
+          "ar": "لغات لخدمة الأسواق",
+          "en": "Languages for market support",
+          "es": "Idiomas de atención",
+          "it": "Lingue di supporto"
+        }
+      },
+      {
+        "value": "6",
+        "suffix": "+",
+        "label": {
+          "ar": "أشكال منتجات أساسية",
+          "en": "Core product formats",
+          "es": "Formatos principales",
+          "it": "Formati principali"
+        }
+      },
+      {
+        "value": "4",
+        "suffix": "",
+        "label": {
+          "ar": "عائلات تعبئة مرنة",
+          "en": "Flexible packing families",
+          "es": "Familias de envase",
+          "it": "Famiglie di packaging"
+        }
+      },
+      {
+        "value": "B2B",
+        "suffix": "",
+        "label": {
+          "ar": "خدمة موجهة للتصدير",
+          "en": "Export-focused service",
+          "es": "Servicio orientado a exportación",
+          "it": "Servizio orientato all’export"
+        }
+      }
+    ],
+    "seo": {
+      "title": {
+        "ar": "Zahrat El-Rabea | تصنيع وتصدير الزيتون المخلل",
+        "en": "Zahrat El-Rabea | Table Olives & Food Manufacturing",
+        "es": "Zahrat El-Rabea | Aceitunas de mesa y fabricación alimentaria",
+        "it": "Zahrat El-Rabea | Olive da tavola e produzione alimentare"
+      },
+      "description": {
+        "ar": "تصنيع وتجهيز وتوريد الزيتون المخلل والمنتجات الغذائية مع حلول تعبئة مرنة وخدمة موجهة لأسواق التصدير.",
+        "en": "Manufacturing, preparation and supply of table olives and food products with flexible packing and export-focused service.",
+        "es": "Fabricación y suministro de aceitunas de mesa y productos alimentarios con envases flexibles y enfoque exportador.",
+        "it": "Produzione e fornitura di olive da tavola e prodotti alimentari con packaging flessibile e servizio export."
+      },
+      "socialImage": "/assets/images/hero-groves.webp",
+      "googleAnalyticsId": "",
+      "searchConsoleVerification": ""
+    }
+  },
+  "home": {
+    "intro": {
+      "eyebrow": {
+        "ar": "خبرة عملية في منتج يحتاج إلى دقة",
+        "en": "Practical expertise where precision matters",
+        "es": "Experiencia práctica donde importa la precisión",
+        "it": "Esperienza pratica dove conta la precisione"
+      },
+      "title": {
+        "ar": "نحوّل احتياجات السوق إلى منتج واضح المواصفة",
+        "en": "We turn market needs into a clearly specified product",
+        "es": "Convertimos las necesidades del mercado en un producto bien especificado",
+        "it": "Trasformiamo le esigenze del mercato in un prodotto con specifiche chiare"
+      },
+      "text": {
+        "ar": "نعمل مع المستوردين والموزعين وأصحاب العلامات التجارية لتحديد حجم الثمرة، درجة اللون، مستوى الملح، أسلوب التعبئة والبيانات المطلوبة قبل بدء التجهيز. والنتيجة عملية شراء أكثر وضوحًا ومنتج أقرب لما يتوقعه عميلك.",
+        "en": "We work with importers, distributors and brand owners to define fruit size, color, salt profile, packing format and required documentation before preparation begins. The result is a clearer buying process and a product closer to your customer’s expectations.",
+        "es": "Trabajamos con importadores, distribuidores y propietarios de marcas para definir calibre, color, salinidad, formato y documentación antes del proceso.",
+        "it": "Collaboriamo con importatori, distributori e brand owner per definire calibro, colore, profilo salino, formato e documentazione prima della lavorazione."
+      }
+    },
+    "quality": {
+      "title": {
+        "ar": "الجودة تبدأ من وضوح المواصفة",
+        "en": "Quality starts with a clear specification",
+        "es": "La calidad comienza con una especificación clara",
+        "it": "La qualità parte da una specifica chiara"
+      },
+      "text": {
+        "ar": "نركز على نقاط يمكن قياسها ومراجعتها: الفرز، التجانس، الملوحة، الوزن المصفى، سلامة العبوة، بيانات التشغيل وتجهيز مستندات الطلب.",
+        "en": "We focus on reviewable checkpoints: grading, uniformity, salt profile, drained weight, pack integrity, batch information and order documentation.",
+        "es": "Nos centramos en puntos verificables: clasificación, uniformidad, salinidad, peso escurrido, integridad del envase y datos del lote.",
+        "it": "Ci concentriamo su controlli verificabili: calibratura, uniformità, salinità, peso sgocciolato, integrità della confezione e dati di lotto."
+      }
+    }
+  },
+  "about": {
+    "title": {
+      "ar": "شريك تصنيع يفهم تفاصيل التصدير",
+      "en": "A manufacturing partner that understands export detail",
+      "es": "Un socio fabricante que entiende la exportación",
+      "it": "Un partner produttivo che comprende l’export"
+    },
+    "lead": {
+      "ar": "Zahrat El-Rabea For Food Manufacturing شركة متخصصة في تجهيز الزيتون المخلل والمنتجات الغذائية لخدمة قنوات الجملة والتجزئة والعلامة الخاصة.",
+      "en": "Zahrat El-Rabea For Food Manufacturing specializes in preparing table olives and food products for wholesale, retail and private-label channels.",
+      "es": "Zahrat El-Rabea For Food Manufacturing se especializa en aceitunas de mesa y productos alimentarios para mayoristas, minoristas y marcas privadas.",
+      "it": "Zahrat El-Rabea For Food Manufacturing è specializzata in olive da tavola e prodotti alimentari per wholesale, retail e private label."
+    },
+    "body": {
+      "ar": "تقوم فلسفتنا على الاستماع أولًا لمتطلبات العميل، ثم ترجمتها إلى مواصفة قابلة للتنفيذ تشمل المنتج والمحلول الملحي والتعبئة والملصق وطريقة التجهيز للشحن. هذا النهج يساعد على تقليل المفاجآت وتسريع المراجعات وبناء علاقة توريد طويلة الأجل.",
+      "en": "Our approach begins with listening to the customer, then translating requirements into an actionable specification covering product, brine, packing, labeling and shipment preparation. This helps reduce surprises, speed up approvals and build long-term supply relationships.",
+      "es": "Nuestro enfoque comienza por escuchar al cliente y traducir sus necesidades en una especificación ejecutable para producto, salmuera, envase, etiquetado y envío.",
+      "it": "Il nostro approccio parte dall’ascolto del cliente e traduce le esigenze in specifiche operative per prodotto, salamoia, packaging, etichetta e spedizione."
+    },
+    "values": [
+      {
+        "icon": "target",
+        "title": {
+          "ar": "وضوح المواصفة",
+          "en": "Specification clarity",
+          "es": "Claridad de especificación",
+          "it": "Chiarezza delle specifiche"
+        },
+        "text": {
+          "ar": "نحدد ما سيتم توريده قبل بدء التنفيذ.",
+          "en": "We define what will be supplied before execution begins.",
+          "es": "Definimos el suministro antes de comenzar.",
+          "it": "Definiamo la fornitura prima di iniziare."
+        }
+      },
+      {
+        "icon": "shield",
+        "title": {
+          "ar": "انضباط الجودة",
+          "en": "Quality discipline",
+          "es": "Disciplina de calidad",
+          "it": "Disciplina della qualità"
+        },
+        "text": {
+          "ar": "نربط كل مرحلة بنقاط فحص ومتابعة.",
+          "en": "Each stage is tied to review checkpoints.",
+          "es": "Cada etapa incluye puntos de control.",
+          "it": "Ogni fase prevede punti di controllo."
+        }
+      },
+      {
+        "icon": "messages",
+        "title": {
+          "ar": "تواصل سريع",
+          "en": "Responsive communication",
+          "es": "Comunicación ágil",
+          "it": "Comunicazione rapida"
+        },
+        "text": {
+          "ar": "متابعة واضحة قبل وأثناء وبعد الطلب.",
+          "en": "Clear follow-up before, during and after the order.",
+          "es": "Seguimiento claro antes, durante y después.",
+          "it": "Follow-up chiaro prima, durante e dopo."
+        }
+      },
+      {
+        "icon": "sprout",
+        "title": {
+          "ar": "نمو مسؤول",
+          "en": "Responsible growth",
+          "es": "Crecimiento responsable",
+          "it": "Crescita responsabile"
+        },
+        "text": {
+          "ar": "قرارات عملية تحافظ على المنتج والموارد.",
+          "en": "Practical decisions that respect product and resources.",
+          "es": "Decisiones prácticas que cuidan producto y recursos.",
+          "it": "Decisioni pratiche per prodotto e risorse."
+        }
+      }
+    ]
+  },
+  "capabilities": [
+    {
+      "icon": "scan",
+      "title": {
+        "ar": "الاستلام والفرز",
+        "en": "Receiving & grading",
+        "es": "Recepción y clasificación",
+        "it": "Ricezione e calibratura"
+      },
+      "text": {
+        "ar": "تقييم الحجم واللون والحالة العامة قبل إدخال المنتج إلى مراحل التجهيز.",
+        "en": "Assessment of size, color and general condition before processing.",
+        "es": "Evaluación de calibre, color y condición antes del proceso.",
+        "it": "Valutazione di calibro, colore e condizioni prima della lavorazione."
+      }
+    },
+    {
+      "icon": "flask",
+      "title": {
+        "ar": "المعالجة والتوازن",
+        "en": "Processing & balance",
+        "es": "Proceso y equilibrio",
+        "it": "Lavorazione ed equilibrio"
+      },
+      "text": {
+        "ar": "ضبط المعالجة والمحلول بما يتوافق مع طبيعة المنتج والمواصفة المطلوبة.",
+        "en": "Processing and brine are adjusted to product character and requested specification.",
+        "es": "Ajuste del proceso y salmuera según producto y especificación.",
+        "it": "Regolazione di processo e salamoia secondo prodotto e specifiche."
+      }
+    },
+    {
+      "icon": "package",
+      "title": {
+        "ar": "التعبئة المرنة",
+        "en": "Flexible packing",
+        "es": "Envasado flexible",
+        "it": "Packaging flessibile"
+      },
+      "text": {
+        "ar": "عبوات تجزئة وجملة وخيارات مناسبة للعلامة الخاصة.",
+        "en": "Retail, foodservice and bulk formats suitable for private label.",
+        "es": "Formatos retail, foodservice y granel para marca privada.",
+        "it": "Formati retail, foodservice e bulk per private label."
+      }
+    },
+    {
+      "icon": "badge-check",
+      "title": {
+        "ar": "الفحص والتوثيق",
+        "en": "Checks & documentation",
+        "es": "Control y documentación",
+        "it": "Controlli e documentazione"
+      },
+      "text": {
+        "ar": "مراجعة العبوات والبيانات وتجهيز المستندات المرتبطة بالطلب.",
+        "en": "Review of packs, batch details and order-related documents.",
+        "es": "Revisión de envases, lote y documentos del pedido.",
+        "it": "Verifica di confezioni, lotto e documenti d’ordine."
+      }
+    },
+    {
+      "icon": "ship",
+      "title": {
+        "ar": "تجهيز التصدير",
+        "en": "Export preparation",
+        "es": "Preparación para exportación",
+        "it": "Preparazione export"
+      },
+      "text": {
+        "ar": "تنسيق الكميات والتعبئة ووضع المنتج بما يدعم كفاءة التحميل.",
+        "en": "Coordination of quantities, packing and pallet presentation for efficient loading.",
+        "es": "Coordinación de cantidades, embalaje y paletizado.",
+        "it": "Coordinamento di quantità, imballo e pallettizzazione."
+      }
+    },
+    {
+      "icon": "headphones",
+      "title": {
+        "ar": "دعم ما بعد الطلب",
+        "en": "Post-order support",
+        "es": "Soporte posventa",
+        "it": "Supporto post-ordine"
+      },
+      "text": {
+        "ar": "متابعة عملية تساعد على توثيق الملاحظات وتحسين الطلبات التالية.",
+        "en": "Practical follow-up to document feedback and improve future orders.",
+        "es": "Seguimiento para documentar comentarios y mejorar pedidos futuros.",
+        "it": "Follow-up per documentare feedback e migliorare gli ordini successivi."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "green",
+      "slug": "green-olives",
+      "name": {
+        "ar": "الزيتون الأخضر",
+        "en": "Green olives",
+        "es": "Aceitunas verdes",
+        "it": "Olive verdi"
+      },
+      "image": "/assets/images/category-green.webp"
+    },
+    {
+      "id": "black",
+      "slug": "black-olives",
+      "name": {
+        "ar": "الزيتون الأسود",
+        "en": "Black olives",
+        "es": "Aceitunas negras",
+        "it": "Olive nere"
+      },
+      "image": "/assets/images/category-black.webp"
+    },
+    {
+      "id": "sliced",
+      "slug": "processed-formats",
+      "name": {
+        "ar": "أشكال مصنّعة",
+        "en": "Processed formats",
+        "es": "Formatos procesados",
+        "it": "Formati lavorati"
+      },
+      "image": "/assets/images/category-sliced.webp"
+    },
+    {
+      "id": "pickles",
+      "slug": "pickled-products",
+      "name": {
+        "ar": "منتجات مخللة",
+        "en": "Pickled products",
+        "es": "Encurtidos",
+        "it": "Prodotti sottaceto"
+      },
+      "image": "/assets/images/category-pickles.webp"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "slug": "whole-green-olives",
+      "category": "green",
+      "featured": true,
+      "status": "published",
+      "name": {
+        "ar": "زيتون أخضر كامل",
+        "en": "Whole Green Olives",
+        "es": "Aceitunas verdes enteras",
+        "it": "Olive verdi intere"
+      },
+      "short": {
+        "ar": "ثمار كاملة بفرز متجانس وخيارات متعددة للحجم والمحلول والتعبئة.",
+        "en": "Whole fruit with consistent grading and configurable size, brine and packing.",
+        "es": "Fruto entero con calibre uniforme y opciones de salmuera y envase.",
+        "it": "Frutto intero con calibratura uniforme e opzioni di salamoia e packaging."
+      },
+      "description": {
+        "ar": "مناسب لقنوات التجزئة والخدمات الغذائية، ويمكن تجهيزه وفق حجم الثمرة ونسبة الملح ونوع العبوة المتفق عليها.",
+        "en": "Suitable for retail and foodservice, configurable by fruit size, salt profile and agreed packing format.",
+        "es": "Adecuado para retail y foodservice, configurable por calibre, salinidad y formato.",
+        "it": "Adatto a retail e foodservice, configurabile per calibro, salinità e formato."
+      },
+      "image": "/assets/images/product-whole-green.webp",
+      "gallery": [
+        "/assets/images/product-whole-green.webp",
+        "/assets/images/hero-groves.webp"
+      ],
+      "packaging": {
+        "ar": "برطمانات زجاج، PET، صفائح، جراكن وبراميل",
+        "en": "Glass jars, PET, tins, pails and drums",
+        "es": "Frascos de vidrio, PET, latas, cubos y bidones",
+        "it": "Vetro, PET, latte, secchi e fusti"
+      },
+      "specs": [
+        {
+          "key": {
+            "ar": "الشكل",
+            "en": "Format",
+            "es": "Formato",
+            "it": "Formato"
+          },
+          "value": {
+            "ar": "كامل",
+            "en": "Whole",
+            "es": "Entero",
+            "it": "Intero"
+          }
+        },
+        {
+          "key": {
+            "ar": "المقاس",
+            "en": "Size",
+            "es": "Calibre",
+            "it": "Calibro"
+          },
+          "value": {
+            "ar": "حسب الطلب والتوافر",
+            "en": "By request and availability",
+            "es": "Según solicitud y disponibilidad",
+            "it": "Su richiesta e disponibilità"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "slug": "pitted-green-olives",
+      "category": "green",
+      "featured": true,
+      "status": "published",
+      "name": {
+        "ar": "زيتون أخضر منزوع النوى",
+        "en": "Pitted Green Olives",
+        "es": "Aceitunas verdes sin hueso",
+        "it": "Olive verdi denocciolate"
+      },
+      "short": {
+        "ar": "خيار عملي للتجزئة والمطاعم وخطوط تجهيز الأغذية.",
+        "en": "A practical option for retail, foodservice and food preparation.",
+        "es": "Opción práctica para retail, hostelería y preparación alimentaria.",
+        "it": "Soluzione pratica per retail, ristorazione e preparazioni alimentari."
+      },
+      "description": {
+        "ar": "يُجهز لتقديم استخدام أسرع مع الحفاظ على وضوح الحجم والشكل ومتطلبات الوزن المصفى.",
+        "en": "Prepared for faster use while maintaining clear requirements for size, appearance and drained weight.",
+        "es": "Preparadas para uso rápido con requisitos claros de calibre, apariencia y peso escurrido.",
+        "it": "Preparato per uso rapido con requisiti chiari di calibro, aspetto e peso sgocciolato."
+      },
+      "image": "/assets/images/product-pitted.webp",
+      "gallery": [
+        "/assets/images/product-pitted.webp"
+      ],
+      "packaging": {
+        "ar": "زجاج، PET، صفائح وجراكن",
+        "en": "Glass, PET, tins and pails",
+        "es": "Vidrio, PET, latas y cubos",
+        "it": "Vetro, PET, latte e secchi"
+      },
+      "specs": [
+        {
+          "key": {
+            "ar": "الشكل",
+            "en": "Format",
+            "es": "Formato",
+            "it": "Formato"
+          },
+          "value": {
+            "ar": "منزوع النوى",
+            "en": "Pitted",
+            "es": "Sin hueso",
+            "it": "Denocciolato"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "slug": "sliced-green-olives",
+      "category": "sliced",
+      "featured": true,
+      "status": "published",
+      "name": {
+        "ar": "شرائح زيتون أخضر",
+        "en": "Sliced Green Olives",
+        "es": "Aceitunas verdes en rodajas",
+        "it": "Olive verdi a rondelle"
+      },
+      "short": {
+        "ar": "شرائح متناسقة للبيتزا والمخبوزات والسلطات وخدمات الطعام.",
+        "en": "Consistent slices for pizza, bakery, salads and foodservice.",
+        "es": "Rodajas uniformes para pizza, panadería, ensaladas y foodservice.",
+        "it": "Rondelle uniformi per pizza, bakery, insalate e foodservice."
+      },
+      "description": {
+        "ar": "صيغة مناسبة للمصانع والمطاعم التي تحتاج سرعة استخدام وتجانسًا في التوزيع داخل المنتج النهائي.",
+        "en": "A format for manufacturers and kitchens that need speed of use and even distribution in the final product.",
+        "es": "Formato para fabricantes y cocinas que requieren rapidez y distribución uniforme.",
+        "it": "Formato per produttori e cucine che richiedono rapidità e distribuzione uniforme."
+      },
+      "image": "/assets/images/product-sliced.webp",
+      "gallery": [
+        "/assets/images/product-sliced.webp"
+      ],
+      "packaging": {
+        "ar": "صفائح، PET، جراكن وبراميل",
+        "en": "Tins, PET, pails and drums",
+        "es": "Latas, PET, cubos y bidones",
+        "it": "Latte, PET, secchi e fusti"
+      },
+      "specs": [
+        {
+          "key": {
+            "ar": "الشكل",
+            "en": "Format",
+            "es": "Formato",
+            "it": "Formato"
+          },
+          "value": {
+            "ar": "شرائح",
+            "en": "Sliced",
+            "es": "Rodajas",
+            "it": "Rondelle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "slug": "black-olives",
+      "category": "black",
+      "featured": true,
+      "status": "published",
+      "name": {
+        "ar": "زيتون أسود",
+        "en": "Black Olives",
+        "es": "Aceitunas negras",
+        "it": "Olive nere"
+      },
+      "short": {
+        "ar": "خيارات كاملة أو منزوعة النوى أو شرائح وفق الاستخدام المستهدف.",
+        "en": "Whole, pitted or sliced options according to intended use.",
+        "es": "Opciones enteras, sin hueso o en rodajas según el uso.",
+        "it": "Opzioni intere, denocciolate o a rondelle secondo l’uso."
+      },
+      "description": {
+        "ar": "حل مرن لأسواق التجزئة والخدمات الغذائية مع إمكانية ضبط الشكل والحجم والتعبئة.",
+        "en": "A flexible solution for retail and foodservice with configurable format, size and pack.",
+        "es": "Solución flexible para retail y foodservice con formato, calibre y envase configurables.",
+        "it": "Soluzione flessibile per retail e foodservice con formato, calibro e confezione configurabili."
+      },
+      "image": "/assets/images/product-black.webp",
+      "gallery": [
+        "/assets/images/product-black.webp"
+      ],
+      "packaging": {
+        "ar": "زجاج، PET، صفائح، جراكن وبراميل",
+        "en": "Glass, PET, tins, pails and drums",
+        "es": "Vidrio, PET, latas, cubos y bidones",
+        "it": "Vetro, PET, latte, secchi e fusti"
+      },
+      "specs": [
+        {
+          "key": {
+            "ar": "الأشكال",
+            "en": "Formats",
+            "es": "Formatos",
+            "it": "Formati"
+          },
+          "value": {
+            "ar": "كامل، منزوع النوى، شرائح",
+            "en": "Whole, pitted, sliced",
+            "es": "Entero, sin hueso, rodajas",
+            "it": "Intero, denocciolato, rondelle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "slug": "pickled-peppers",
+      "category": "pickles",
+      "featured": false,
+      "status": "published",
+      "name": {
+        "ar": "فلفل مخلل",
+        "en": "Pickled Peppers",
+        "es": "Pimientos encurtidos",
+        "it": "Peperoni sottaceto"
+      },
+      "short": {
+        "ar": "خيارات كاملة أو شرائح بدرجات طعم تناسب السوق المستهدف.",
+        "en": "Whole or sliced options with flavor profiles suited to the target market.",
+        "es": "Enteros o en rodajas con perfiles adaptados al mercado.",
+        "it": "Interi o a fette con profili adatti al mercato."
+      },
+      "description": {
+        "ar": "منتج مكمل لتشكيلة المخللات ويمكن تنسيقه ضمن طلبات الجملة أو العلامة الخاصة.",
+        "en": "A complementary pickle line that can be combined in wholesale or private-label orders.",
+        "es": "Línea complementaria para pedidos mayoristas o marca privada.",
+        "it": "Linea complementare per ordini wholesale o private label."
+      },
+      "image": "/assets/images/product-peppers.webp",
+      "gallery": [
+        "/assets/images/product-peppers.webp"
+      ],
+      "packaging": {
+        "ar": "زجاج، PET وجراكن",
+        "en": "Glass, PET and pails",
+        "es": "Vidrio, PET y cubos",
+        "it": "Vetro, PET e secchi"
+      },
+      "specs": []
+    },
+    {
+      "id": "p6",
+      "slug": "mixed-pickles",
+      "category": "pickles",
+      "featured": false,
+      "status": "published",
+      "name": {
+        "ar": "مخلل مشكل",
+        "en": "Mixed Pickles",
+        "es": "Encurtidos mixtos",
+        "it": "Sottaceti misti"
+      },
+      "short": {
+        "ar": "مزيج قابل للتخصيص من الخضروات المخللة حسب مواصفة العميل.",
+        "en": "A configurable mix of pickled vegetables according to customer specification.",
+        "es": "Mezcla configurable de verduras encurtidas según especificación.",
+        "it": "Mix configurabile di verdure sottaceto secondo specifica."
+      },
+      "description": {
+        "ar": "يمكن تحديد المكونات ونسبها وحجم القطع ونوع العبوة لتناسب قنوات البيع المختلفة.",
+        "en": "Ingredients, ratios, cut size and pack can be defined for different sales channels.",
+        "es": "Se pueden definir ingredientes, proporciones, corte y envase.",
+        "it": "Ingredienti, proporzioni, taglio e confezione possono essere definiti."
+      },
+      "image": "/assets/images/product-mixed.webp",
+      "gallery": [
+        "/assets/images/product-mixed.webp"
+      ],
+      "packaging": {
+        "ar": "زجاج، PET وجراكن",
+        "en": "Glass, PET and pails",
+        "es": "Vidrio, PET y cubos",
+        "it": "Vetro, PET e secchi"
+      },
+      "specs": []
+    }
+  ],
+  "packaging": [
+    {
+      "icon": "jar",
+      "title": {
+        "ar": "برطمانات زجاج",
+        "en": "Glass jars",
+        "es": "Frascos de vidrio",
+        "it": "Vasi in vetro"
+      },
+      "text": {
+        "ar": "حل مناسب لمنتجات التجزئة ذات العرض المتميز.",
+        "en": "A premium-facing retail option.",
+        "es": "Opción premium para retail.",
+        "it": "Opzione premium per il retail."
+      }
+    },
+    {
+      "icon": "bottle",
+      "title": {
+        "ar": "عبوات PET",
+        "en": "PET containers",
+        "es": "Envases PET",
+        "it": "Contenitori PET"
+      },
+      "text": {
+        "ar": "خفيفة وعملية ومتاحة بأحجام متعددة.",
+        "en": "Lightweight, practical and available in multiple sizes.",
+        "es": "Ligeros y prácticos en varios tamaños.",
+        "it": "Leggeri e pratici in vari formati."
+      }
+    },
+    {
+      "icon": "can",
+      "title": {
+        "ar": "صفائح معدنية",
+        "en": "Tins",
+        "es": "Latas",
+        "it": "Latte"
+      },
+      "text": {
+        "ar": "خيار قوي للخدمات الغذائية وبعض أسواق التجزئة.",
+        "en": "A robust foodservice and retail format.",
+        "es": "Formato robusto para hostelería y retail.",
+        "it": "Formato robusto per ristorazione e retail."
+      }
+    },
+    {
+      "icon": "drum",
+      "title": {
+        "ar": "جراكن وبراميل",
+        "en": "Pails & drums",
+        "es": "Cubos y bidones",
+        "it": "Secchi e fusti"
+      },
+      "text": {
+        "ar": "للكميات الكبيرة والاستخدام الصناعي وإعادة التعبئة.",
+        "en": "For bulk, industrial use and repacking.",
+        "es": "Para granel, industria y reenvasado.",
+        "it": "Per bulk, industria e riconfezionamento."
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "id": "c1",
+      "icon": "shield-check",
+      "title": {
+        "ar": "ملفات الاعتماد الرسمية",
+        "en": "Official certification files",
+        "es": "Archivos oficiales de certificación",
+        "it": "Documenti ufficiali di certificazione"
+      },
+      "text": {
+        "ar": "يمكن رفع الشهادات الفعلية وصور الاعتماد وتواريخ الصلاحية من لوحة التحكم.",
+        "en": "Upload actual certificates, scans and validity dates from the dashboard.",
+        "es": "Cargue certificados reales, copias y vigencia desde el panel.",
+        "it": "Carica certificati reali, copie e validità dalla dashboard."
+      },
+      "image": "/assets/images/certificate-placeholder.webp",
+      "placeholder": true
+    },
+    {
+      "id": "c2",
+      "icon": "clipboard-check",
+      "title": {
+        "ar": "إجراءات الجودة",
+        "en": "Quality procedures",
+        "es": "Procedimientos de calidad",
+        "it": "Procedure qualità"
+      },
+      "text": {
+        "ar": "عرض إجراءات الفحص والتتبع والمراجعة المرتبطة بالمنتج والطلب.",
+        "en": "Present product and order checks, traceability and review procedures.",
+        "es": "Presente controles, trazabilidad y revisiones.",
+        "it": "Presenta controlli, tracciabilità e revisioni."
+      },
+      "image": "/assets/images/quality-placeholder.webp",
+      "placeholder": true
+    }
+  ],
+  "achievements": [
+    {
+      "id": "a1",
+      "year": "2026",
+      "title": {
+        "ar": "منصة رقمية متعددة اللغات",
+        "en": "Multilingual digital platform",
+        "es": "Plataforma digital multilingüe",
+        "it": "Piattaforma digitale multilingue"
+      },
+      "text": {
+        "ar": "تجربة موحدة لعرض المنتجات واستقبال طلبات التصدير بأربع لغات.",
+        "en": "A unified experience for products and export inquiries in four languages.",
+        "es": "Experiencia unificada para productos y consultas en cuatro idiomas.",
+        "it": "Esperienza unificata per prodotti e richieste in quattro lingue."
+      }
+    },
+    {
+      "id": "a2",
+      "year": "2026",
+      "title": {
+        "ar": "كتالوج منتجات مرن",
+        "en": "Flexible product catalog",
+        "es": "Catálogo flexible",
+        "it": "Catalogo flessibile"
+      },
+      "text": {
+        "ar": "هيكل قابل للتوسع للمنتجات والمواصفات والتعبئة والملفات.",
+        "en": "An expandable structure for products, specifications, packing and files.",
+        "es": "Estructura ampliable para productos, especificaciones y archivos.",
+        "it": "Struttura espandibile per prodotti, specifiche, packaging e file."
+      }
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "slug": "how-to-choose-table-olive-supplier",
+      "date": "2026-05-14",
+      "image": "/assets/images/news-supplier.webp",
+      "title": {
+        "ar": "كيف تختار مورد زيتون مائدة لعلامتك التجارية؟",
+        "en": "How to choose a table-olive supplier for your brand",
+        "es": "Cómo elegir proveedor de aceitunas para su marca",
+        "it": "Come scegliere un fornitore di olive per il tuo brand"
+      },
+      "excerpt": {
+        "ar": "خمسة محاور عملية للمقارنة بين الموردين بعيدًا عن السعر وحده.",
+        "en": "Five practical dimensions for comparing suppliers beyond price alone.",
+        "es": "Cinco criterios prácticos más allá del precio.",
+        "it": "Cinque criteri pratici oltre al prezzo."
+      },
+      "body": {
+        "ar": "ابدأ بالمواصفة: الحجم والشكل واللون والملوحة والوزن المصفى. ثم راجع خيارات التعبئة وآلية اعتماد العينات والحد الأدنى للطلب والمستندات وخطة التواصل أثناء التنفيذ. السعر مهم، لكن وضوح العملية هو ما يقلل التكلفة الخفية.",
+        "en": "Start with specification: size, format, color, salt profile and drained weight. Then review packing options, sample approval, minimum order, documentation and communication during execution. Price matters, but process clarity reduces hidden cost.",
+        "es": "Empiece por calibre, formato, color, salinidad y peso escurrido. Revise envase, muestras, pedido mínimo, documentación y comunicación.",
+        "it": "Parti da calibro, formato, colore, salinità e peso sgocciolato. Valuta packaging, campioni, MOQ, documenti e comunicazione."
+      }
+    },
+    {
+      "id": "n2",
+      "slug": "packaging-options-for-export-olives",
+      "date": "2026-04-22",
+      "image": "/assets/images/news-packaging.webp",
+      "title": {
+        "ar": "اختيار العبوة المناسبة للزيتون المخصص للتصدير",
+        "en": "Choosing the right pack for export table olives",
+        "es": "Elegir el envase adecuado para exportación",
+        "it": "Scegliere il packaging giusto per l’export"
+      },
+      "excerpt": {
+        "ar": "مقارنة عملية بين الزجاج وPET والصفائح والجراكن والبراميل.",
+        "en": "A practical comparison of glass, PET, tins, pails and drums.",
+        "es": "Comparación práctica de vidrio, PET, latas y bidones.",
+        "it": "Confronto pratico tra vetro, PET, latte, secchi e fusti."
+      },
+      "body": {
+        "ar": "العبوة قرار تجاري ولوجستي معًا. الزجاج يدعم العرض المتميز، وPET يوازن بين الوزن والمرونة، والصفائح مناسبة لقطاعات محددة، بينما الجراكن والبراميل تخدم الجملة والاستخدام الصناعي. القرار النهائي يعتمد على قناة البيع ومسافة الشحن وطريقة التخزين.",
+        "en": "Packing is both a commercial and logistics decision. Glass supports premium presentation, PET balances weight and flexibility, tins suit specific channels, while pails and drums serve bulk and industrial use. The right choice depends on channel, shipping distance and storage.",
+        "es": "El envase es una decisión comercial y logística. La elección depende del canal, distancia y almacenamiento.",
+        "it": "Il packaging è una scelta commerciale e logistica. Dipende dal canale, distanza e stoccaggio."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "id": "f1",
+      "q": {
+        "ar": "هل يمكن تنفيذ علامة خاصة؟",
+        "en": "Do you support private label?",
+        "es": "¿Ofrecen marca privada?",
+        "it": "Supportate il private label?"
+      },
+      "a": {
+        "ar": "نعم، يمكن إعداد المنتج والعبوة والملصق وفق المتطلبات المتفق عليها وبعد اعتماد التفاصيل الفنية والتجارية.",
+        "en": "Yes. Product, pack and label can be prepared to agreed requirements after technical and commercial approval.",
+        "es": "Sí. Producto, envase y etiqueta pueden adaptarse tras la aprobación técnica y comercial.",
+        "it": "Sì. Prodotto, confezione ed etichetta possono essere adattati dopo approvazione tecnica e commerciale."
+      }
+    },
+    {
+      "id": "f2",
+      "q": {
+        "ar": "ما خيارات التعبئة المتاحة؟",
+        "en": "What packing options are available?",
+        "es": "¿Qué envases están disponibles?",
+        "it": "Quali confezioni sono disponibili?"
+      },
+      "a": {
+        "ar": "تتضمن الخيارات البرطمانات الزجاجية وPET والصفائح والجراكن والبراميل، ويعتمد التوافر النهائي على المنتج والحجم والكمية.",
+        "en": "Options include glass jars, PET, tins, pails and drums. Final availability depends on product, size and quantity.",
+        "es": "Incluyen vidrio, PET, latas, cubos y bidones según producto y cantidad.",
+        "it": "Includono vetro, PET, latte, secchi e fusti secondo prodotto e quantità."
+      }
+    },
+    {
+      "id": "f3",
+      "q": {
+        "ar": "كيف أطلب عرض سعر دقيق؟",
+        "en": "How do I request an accurate quote?",
+        "es": "¿Cómo solicitar una cotización precisa?",
+        "it": "Come richiedere un preventivo preciso?"
+      },
+      "a": {
+        "ar": "أرسل المنتج والشكل والحجم والعبوة والوزن والكمية والوجهة وأي متطلبات للملصق أو المستندات. كلما كانت البيانات أوضح كان الرد أدق.",
+        "en": "Share product, format, size, pack, weight, quantity, destination and label or documentation requirements. Clearer data produces a more accurate response.",
+        "es": "Indique producto, formato, calibre, envase, peso, cantidad, destino y requisitos.",
+        "it": "Indica prodotto, formato, calibro, confezione, peso, quantità, destinazione e requisiti."
+      }
+    },
+    {
+      "id": "f4",
+      "q": {
+        "ar": "هل يمكن طلب عينة؟",
+        "en": "Can I request a sample?",
+        "es": "¿Puedo solicitar una muestra?",
+        "it": "Posso richiedere un campione?"
+      },
+      "a": {
+        "ar": "يمكن مناقشة العينات وآلية الشحن بعد تحديد المواصفة الأولية والسوق المستهدف.",
+        "en": "Samples and shipping can be discussed after defining the initial specification and target market.",
+        "es": "Las muestras se coordinan tras definir especificación y mercado.",
+        "it": "I campioni si concordano dopo aver definito specifiche e mercato."
+      }
+    }
+  ],
+  "legal": {
+    "privacy": {
+      "ar": "نستخدم البيانات التي ترسلها عبر نماذج التواصل وطلب عرض السعر فقط للرد على طلبك وإدارة العلاقة التجارية. لا يتم بيع البيانات الشخصية. قد تُحفظ سجلات تقنية محدودة لأغراض الأمان وتحسين الأداء. يمكنك طلب تصحيح بياناتك أو حذفها عبر البريد الرسمي.",
+      "en": "We use data submitted through contact and quote forms to answer your request and manage the business relationship. Personal data is not sold. Limited technical logs may be retained for security and performance. You may request correction or deletion through the official email.",
+      "es": "Usamos los datos de formularios para responder y gestionar la relación comercial. No vendemos datos personales. Puede solicitar corrección o eliminación.",
+      "it": "Utilizziamo i dati dei moduli per rispondere e gestire il rapporto commerciale. Non vendiamo dati personali. Puoi richiedere correzione o cancellazione."
+    },
+    "terms": {
+      "ar": "المحتوى التعريفي بالموقع لا يُعد عرضًا تجاريًا ملزمًا. المواصفات والأسعار والتوافر ومواعيد التسليم تصبح نافذة فقط بعد إصدار عرض رسمي واعتماده. الصور قد تكون توضيحية ويجب الرجوع إلى العينة والمواصفة المعتمدة.",
+      "en": "Website information is not a binding commercial offer. Specifications, prices, availability and lead times apply only after a formal quotation is issued and approved. Images may be illustrative; refer to the approved sample and specification.",
+      "es": "La información no constituye oferta vinculante. Especificaciones, precios y plazos aplican tras cotización formal aprobada.",
+      "it": "Le informazioni non costituiscono offerta vincolante. Specifiche, prezzi e tempi valgono dopo preventivo formale approvato."
+    }
+  },
+  "_meta": {
+    "release": "production"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Eslam Moustafa",
+    "email": "admin@zahratelrabea.com",
+    "role": "super_admin",
+    "active": true,
+    "mustChangePassword": false,
+    "salt": "2f797b9b9990457d92da95bcb48156a0",
+    "passwordHash": "61c0303b068bcb45e6c5044e08b89bed8198190d7756b0a37d216427929e7a041d1bd44b8c97b04123887316bc892dd13417b15e22b08f895904f1ddda223abf",
+    "createdAt": "2026-06-23T03:21:25.441Z",
+    "updatedAt": "2026-06-23T03:21:25.445Z"
+  }
+]
